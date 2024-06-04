@@ -1,0 +1,32 @@
+body {
+    background-color:hsl(212, 45%, 89%);
+}
+
+h5 {
+    font-family: "Outfit", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    font-family: "Outfit", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 15px;
+    color: hsl(220, 15%, 55%)
+    
+}
+
+img {
+    padding: 15px;
+    border-radius: 25px;
+    
+}
+
+.card {
+    border-radius: 20px;
+}
